@@ -34,4 +34,4 @@ class EmailInput extends React.Component {
             </div>
         );
     };
-}
+} 
